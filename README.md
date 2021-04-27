@@ -1,4 +1,8 @@
 # portfoliojose
+## portfolio link
+```
+https://josegzza-portfolio.herokuapp.com/
+```
 
 ## Project setup
 ```
